@@ -4,12 +4,12 @@
 
 #### File structure
 
-|-----UI-Challenge--|--Assests(folder for images)
+`|-----UI-Challenge--|--Assests(folder for images)
 |                   |--style.css
 |
 |-index.html
 |-array_manipulation_challeng.js
-|-string_transformation_challenge.js
+|-string_transformation_challenge.js`
 
 #### Implimentations:
 
